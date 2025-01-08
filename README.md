@@ -1,6 +1,6 @@
 # Welcome to my repository!
 
-👋 Hi, I'm **mojudev**, and this is my CV. Here you can find a summary of my skills, experience, and projects.
+👋 Hi, I'm **Ivan Moya**, and this is my CV. Here you can find a summary of my skills, experience, and projects.
 
 🌍 **My CV**: [mojudev.netlify.app](https://mojudev.netlify.app)
 
