@@ -2,8 +2,8 @@
 
 👋 Hi, I'm **Ivan Moya**, and this is my CV. Here you can find a summary of my skills, experience, and projects.
 
-🌍 **My CV - Netlify**: [mojudev.netlify.app](https://mojudev.netlify.app)
-🌍 **My CV - Github Pages**: [https://mojudev.github.io/cv-portfolio](https://mojudev.github.io/cv-portfolio)
+- 🌍 **My CV - Netlify**: [mojudev.netlify.app](https://mojudev.netlify.app) 
+- 🌍 **My CV - Github Pages**: [https://mojudev.github.io/cv-portfolio](https://mojudev.github.io/cv-portfolio)
 
 ## 🧑‍💻 Who am I?
 
